@@ -1,0 +1,18 @@
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.exe.config
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.exe
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.pdb
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo_Lab_4.RetirementCalc.resources
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo_Lab_4.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.exe
+C:\Users\Ernesto\Desktop\C# Lab 4\EMurillo Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.pdb
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.exe.config
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.exe
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.pdb
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.exe
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\bin\Debug\EMurillo Lab 4.pdb
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.csprojResolveAssemblyReference.cache
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo_Lab_4.RetirementCalc.resources
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo_Lab_4.Properties.Resources.resources
+K:\C# class SE245.54\Lab 4\EMurillo Lab 4\obj\Debug\EMurillo Lab 4.csproj.GenerateResource.Cache

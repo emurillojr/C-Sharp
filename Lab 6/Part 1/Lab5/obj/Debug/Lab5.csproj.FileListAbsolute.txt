@@ -1,0 +1,24 @@
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.frmSimpleCalculator.resources
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.exe
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\bin\Debug\Lab5.exe
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.frmSimpleCalculator.resources
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-111\Lab5\obj\Debug\Lab5.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-TRYCATCH\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-TRYCATCH\Lab5\obj\Debug\Lab5.exe
+C:\Users\Ernesto\Desktop\C# Lab 5\Lab5-TRYCATCH\Lab5\obj\Debug\Lab5.pdb
+K:\C# class SE245.54\Lab 6\Part 1\Lab5\bin\Debug\Lab5.exe.config
+K:\C# class SE245.54\Lab 6\Part 1\Lab5\obj\Debug\Lab5.exe
+K:\C# class SE245.54\Lab 6\Part 1\Lab5\obj\Debug\Lab5.pdb
