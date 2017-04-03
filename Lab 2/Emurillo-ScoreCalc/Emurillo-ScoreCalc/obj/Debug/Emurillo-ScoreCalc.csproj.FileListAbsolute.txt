@@ -1,0 +1,18 @@
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.exe.config
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.exe
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.pdb
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo_ScoreCalc.frmScoreCalculator.resources
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo_ScoreCalc.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.exe
+C:\Users\Ernesto\Desktop\c# lab2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.pdb
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.exe.config
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.exe
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.pdb
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.exe
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\bin\Debug\Emurillo-ScoreCalc.pdb
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.csprojResolveAssemblyReference.cache
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo_ScoreCalc.frmScoreCalculator.resources
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo_ScoreCalc.Properties.Resources.resources
+K:\C# class SE245.54\Lab 2\Emurillo-ScoreCalc\Emurillo-ScoreCalc\obj\Debug\Emurillo-ScoreCalc.csproj.GenerateResource.Cache

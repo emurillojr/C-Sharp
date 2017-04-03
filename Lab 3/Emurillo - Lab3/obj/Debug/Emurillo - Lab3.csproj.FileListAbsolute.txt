@@ -1,0 +1,27 @@
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe.config
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.frmCalcLetterGradeApp.resources
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.pdb
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.exe
+C:\Users\Ernesto\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.pdb
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe.config
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.exe
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.pdb
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.pdb
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.frmCalcLetterGradeApp.resources
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.Properties.Resources.resources
+C:\Users\001384335\Desktop\c# lab3\Emurillo - Lab3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csproj.GenerateResource.Cache
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe.config
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.exe
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.pdb
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.exe
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\bin\Debug\Emurillo - Lab3.pdb
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csprojResolveAssemblyReference.cache
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.frmCalcLetterGradeApp.resources
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo___Lab3.Properties.Resources.resources
+K:\C# class SE245.54\Lab 3\Emurillo - Lab3\obj\Debug\Emurillo - Lab3.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe.config
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.pdb
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.exe
+C:\Users\Ernesto\Desktop\C# 2012 Q4\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.pdb
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe.config
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.exe
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.pdb
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.pdb
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csprojResolveAssemblyReference.cache
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.frmInvoiceTotal.resources
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.Properties.Resources.resources
+E:\Q4\C# q4\week1\Emurillo-InvoiceTotal\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csproj.GenerateResource.Cache
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe.config
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.exe
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.pdb
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.exe
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\bin\Debug\Emurillo-InvoiceTotal.pdb
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csprojResolveAssemblyReference.cache
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.frmInvoiceTotal.resources
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo_InvoiceTotal.Properties.Resources.resources
+K:\C# class SE245.54\Lab 1\Emurillo-InvoiceTotal\obj\Debug\Emurillo-InvoiceTotal.csproj.GenerateResource.Cache
