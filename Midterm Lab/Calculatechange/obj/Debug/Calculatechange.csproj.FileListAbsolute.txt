@@ -1,0 +1,18 @@
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\bin\Debug\Calculatechange.exe.config
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.CalculateChange.resources
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.Properties.Resources.resources
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\bin\Debug\Calculatechange.exe
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\bin\Debug\Calculatechange.pdb
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.exe
+C:\Users\001384335\Desktop\midterm-part2\Calculatechange\Calculatechange\obj\Debug\Calculatechange.pdb
+K:\C# class SE245.54\Midterm Lab\Calculatechange\bin\Debug\Calculatechange.exe.config
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.exe
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.pdb
+K:\C# class SE245.54\Midterm Lab\Calculatechange\bin\Debug\Calculatechange.exe
+K:\C# class SE245.54\Midterm Lab\Calculatechange\bin\Debug\Calculatechange.pdb
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.csprojResolveAssemblyReference.cache
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.CalculateChange.resources
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.Properties.Resources.resources
+K:\C# class SE245.54\Midterm Lab\Calculatechange\obj\Debug\Calculatechange.csproj.GenerateResource.Cache

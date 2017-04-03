@@ -1,0 +1,26 @@
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\bin\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\bin\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\FINAL_student_scores.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.AddScoreForm.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.AddNewStudentForm.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.Form1.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.Properties.Resources.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.UpdateScoreForm.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.UpdateStudentScoresForm.resources
+C:\Users\001384335\Desktop\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\FINAL_student_scores.csproj.GenerateResource.Cache
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.exe
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.pdb
+E:\Final\FINAL_student_scores\FINAL_student_scores\bin\Debug\maint_student_scores.exe
+E:\Final\FINAL_student_scores\FINAL_student_scores\bin\Debug\maint_student_scores.pdb
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\FINAL_student_scores.csprojResolveAssemblyReference.cache
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.AddScoreForm.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.AddNewStudentForm.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.Form1.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.Properties.Resources.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.UpdateScoreForm.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.UpdateStudentScoresForm.resources
+E:\Final\FINAL_student_scores\FINAL_student_scores\obj\Debug\FINAL_student_scores.csproj.GenerateResource.Cache
+K:\C# class SE245.54\Final Lab\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.exe
+K:\C# class SE245.54\Final Lab\FINAL_student_scores\FINAL_student_scores\obj\Debug\maint_student_scores.pdb

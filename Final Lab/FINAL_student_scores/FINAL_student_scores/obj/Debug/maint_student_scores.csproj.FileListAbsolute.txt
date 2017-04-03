@@ -1,0 +1,36 @@
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Properties.Resources.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.csproj.GenerateResource.Cache
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddScoreForm.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddStudentForm.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Form1.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateScoreForm.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateStudentForm.resources
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.exe
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.pdb
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.exe
+C:\Documents and Settings\EvilLinux\My Documents\Visual Studio 2008\Projects\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddScoreForm.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddStudentForm.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Form1.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Properties.Resources.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateScoreForm.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateStudentForm.resources
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\CSIS193_project6\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.exe
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\bin\Debug\maint_student_scores.pdb
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddScoreForm.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.AddNewStudentForm.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Form1.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.Properties.Resources.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateScoreForm.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.UpdateStudentScoresForm.resources
+C:\Users\001384335\Desktop\Final\maint_student_scores\maint_student_scores\obj\Debug\maint_student_scores.csproj.GenerateResource.Cache
