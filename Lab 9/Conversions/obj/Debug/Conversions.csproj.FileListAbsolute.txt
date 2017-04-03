@@ -1,0 +1,12 @@
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.Conversions.resources
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\Ernesto\Desktop\C# lab9\Conversions\Conversions\obj\Debug\Conversions.pdb
+K:\C# class SE245.54\Lab 9\Conversions\bin\Debug\Conversions.exe.config
+K:\C# class SE245.54\Lab 9\Conversions\obj\Debug\Conversions.exe
+K:\C# class SE245.54\Lab 9\Conversions\obj\Debug\Conversions.pdb

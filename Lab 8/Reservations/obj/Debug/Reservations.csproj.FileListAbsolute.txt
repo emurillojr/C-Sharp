@@ -1,0 +1,21 @@
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\bin\Debug\Reservations.exe.config
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\bin\Debug\Reservations.exe
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\bin\Debug\Reservations.pdb
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.Properties.Resources.resources
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.Reservations.resources
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.exe
+C:\Users\001384335\Desktop\EMURILLO c# Lab8\Reservations\Reservations\obj\Debug\Reservations.pdb
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\bin\Debug\Reservations.exe.config
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.exe
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.pdb
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\bin\Debug\Reservations.exe
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\bin\Debug\Reservations.pdb
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.Reservations.resources
+C:\Users\Ernesto\Desktop\c# Lab8\Reservations\Reservations\obj\Debug\Reservations.csproj.GenerateResource.Cache
+K:\C# class SE245.54\Lab 8\Reservations\bin\Debug\Reservations.exe.config
+K:\C# class SE245.54\Lab 8\Reservations\obj\Debug\Reservations.exe
+K:\C# class SE245.54\Lab 8\Reservations\obj\Debug\Reservations.pdb
